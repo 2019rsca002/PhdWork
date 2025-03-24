@@ -1,0 +1,69 @@
+[1] C. Andersson, and P. Runeson, “A Replicated Quantitative Analysis of
+Fault Distributions in Complex Software Systems,” IEEE T
+SOFTWARE ENG, vol. 33, no. 5, pp. 273-286, April. 2007.
+[2] D. D. Nucci, F. Palomba, G. D. Rosa, G. Bavota, R. Oliveto, and A. D.
+Lucia, “A Developer Centered Bug Prediction Model,” IEEE T
+SOFTWARE ENG, vol. 44, no. 1, pp. 5-24, January. 2017.
+[3] R. Özak1nc1, and A. Tarhan, “Early software defect prediction: A
+systematic map and review,” J SYST SOFTWARE, vol. 144, pp. 216-
+239, October. 2018.
+[4] K. K. Chaturvedi, and V. B. Singh, “An Empirical Comparison of
+Machine Learning Techniques in Predicting the Bug Severity of Open
+and Closed Source Projects,” IJOSSP, vol. 4, no. 2, pp. 32-59, April.
+2012.
+[5] S. S. Rathore, and S. Kumar, “A study on software fault prediction
+techniques,” ARTIF INTELL REV, vol. 51, no. 2, pp. 255-327,
+February. 2019.
+[6] T. Hall, S. Beecham, D. Bowes, D. Gray, and S. Counsell, “A
+Systematic Literature Review on Fault Prediction Performance in
+Software Engineering,” IEEE T SOFTWARE ENG, vol. 38, no. 6, pp.
+1276-1304, November. 2012.
+[7] T. Menzies, J. Greenwald and A. Frank, “Data Mining Static Code
+Attributes to Learn Defect Predictors,” IEEE T SOFTWARE ENG, vol.
+33, no. 1, pp. 2-13, December. 2006.
+[8] R. Malhotra, “A systematic review of machine learning techniques for
+software fault prediction,” APPL SOFT COMPUT, vol. 27, pp. 504-
+518, February. 2015.
+[9] A. E. Hassan, “Predicting faults using the complexity of code changes,”
+in Proc. ICSE, Washington, DC, USA, 2009, pp. 78-88.
+[10] D. Gray, D. Bowes, N. Davey, Y Sun, and B. Christianson, “Using the
+Support Vector Machine as a Classification Method for Software
+Defect Prediction with Static Code Metrics,” in Proc. EANN, Berlin,
+Heidelberg, GER, 2009, pp. 223-234.
+[11] T. Wang and W. Li, “Naive Bayes Software Defect Prediction Model,”
+in Proc. CiSE, Wuhan, CHN, 2010, pp. 1-4.
+[12] N. Gayatri, S. Nickolas, and A. V. Reddy, “Feature selection using
+decision tree induction in class level metrics dataset for software defect
+predictions,” LNCS, vol. 2186, no. 1, pp. 127-149, 2010.
+[13] J. Nam, S. J. Pan and S. Kim, “Transfer defect learning,” in Proc. ICSE,
+San Francisco, CA, USA, September 2013, pp. 382-391.
+[14] Z. Li, X. Y. Jing, F. Wu, X. Zhu, B. Xu, and S. Ying, “Cost-sensitive
+transfer kernel canonical correlation analysis for heterogeneous defect
+prediction” AUTOMAT SOFTW ENG, vol. 25, pp. 201-245.
+[15] I. H. Laradji, M. Alshayeb and L. Ghouti, “Software defect prediction
+using ensemble learning on selected features,” INFORM SOFTWARE
+TECH, vol. 58, pp. 388-402, February. 2015.
+[16] X. Yang, D. Lo, X. Xia, and J. Sun, “TLEL: A two-layer ensemble
+learning approach for just-in-time defect prediction,” INFORM
+SOFTWARE TECH, vol. 87, pp. 206-220, July. 2017.
+[17] P. Jean, B. David, H. Tracy, C. Bruce, and B. Nathan, “Building an
+Ensemble for Software Defect Prediction Based on Diversity
+Selection,” in Proc. ESEM, Ciudad Real, Spain, September 2016, pp.
+46-55.
+[18] X. Xia, D. Lo, S. J. Pan, N. Nagappan, and X. Wang, “HYDRA:
+Massively Compositional Model for Cross- Project Defect Prediction,”
+IEEE T SOFTWARE ENG, vol. 42, no. 10, pp. 977-998, March. 2016.
+[19] S. Wang, T. Liu and L. Tan, “Automatically Learning Semantic
+Features for Defect Prediction,” in Proc. ICSE, Austin, TX, USA, May
+2016, pp. 297-308.
+[20] J. Li, P. He, J. Zhu, and M. R. Lyu, “Software Defect Prediction via
+Convolutional Neural Network,” in Proc. QRS, Prague, Czech,
+Republic, July 2017, pp. 318-328.
+[21] H. K. Dam, T. Pham, S. W. Ng, T. Tran, J. Grundy, and A. Ghose, “A
+deep tree-based model for software defect prediction,”
+arXiv:1802.00921 unpublished.
+[22] N. Srivastava, G. Hinton, A. Krizhevsky, I. Sutskever, and R.
+Salakhutdinov, “Dropout: a simple way to prevent neural networks
+from overfitting,” J MACH LEARN RES, vol. 15, no. 1, pp. 1929-
+1958, 2014.
+Authorized
